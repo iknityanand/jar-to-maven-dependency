@@ -1,0 +1,15 @@
+{
+  "name": "dependencygenerator",
+  "version": "1.0.0",
+  "description": "converting local jar files to maven dependency statements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iknityanand",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "jarfile": "^1.0.4"
+  }
+}
